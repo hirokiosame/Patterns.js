@@ -1,4 +1,4 @@
-var Patterns = (function () {
+module.exports = (function () {
 
 	'use strict';
 
