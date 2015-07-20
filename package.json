@@ -1,0 +1,19 @@
+{
+  "name": "patterns.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirokiosame/Patterns.js.git"
+  },
+  "author": "Hiroki Osame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokiosame/Patterns.js/issues"
+  },
+  "homepage": "https://github.com/hirokiosame/Patterns.js#readme"
+}
